@@ -116,6 +116,3 @@ Explore them here →
 🔗 LinkedIn: [niyoBlaise](https://www.linkedin.com/in/niyonshuti-blaise-131b422a5/)
 📧 Email: [niyoblaise7@gmail.com](mailto:niyoblaise7@gmail.com)
 
----
-
-⭐ *Always learning. Always building.*
