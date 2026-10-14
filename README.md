@@ -1,25 +1,25 @@
-# Hi 👋 I'm Niyonshuti Blaise
+# Hi  I'm Niyonshuti Blaise
 
-🎓 Final Year **Software Engineering Student**
+**Software Engineer**
 💻 Full-Stack Developer | Mobile Developer | AI Enthusiast
 
 I enjoy building **scalable web applications, mobile apps, and intelligent systems** that solve real-world problems.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-* 💻 Full-stack web development
-* 📱 Cross-platform mobile development
-* ⚙️ Backend APIs (REST, GraphQL, WebSockets)
-* 🤖 Machine learning and data analysis
-* 📊 Data dashboards and analytics
+*  Full-stack web development
+*  Cross-platform mobile development
+*  Backend APIs (REST, GraphQL, WebSockets)
+*  Machine learning and data analysis
+*  Data dashboards and analytics
 
 ---
 
-# 🛠️ Skills
+#  Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -29,7 +29,7 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-### 🌐 Frontend Development
+###  Frontend Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -40,7 +40,7 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
@@ -50,14 +50,14 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
 </p>
 
-### 📱 Mobile Development
+###  Mobile Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
@@ -67,7 +67,7 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </p>
 
-### 🤖 Data Science & Machine Learning
+###  Data Science & Machine Learning
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
@@ -76,7 +76,7 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -89,21 +89,21 @@ I enjoy building **scalable web applications, mobile apps, and intelligent syste
 
 ---
 
-## 📂 Projects
+##  Projects
 
 I build practical projects in:
 
-* 🌐 Full-stack web applications
-* 📱 Mobile apps
-* ⚙️ Backend APIs
-* 🤖 Machine learning systems
+*  Full-stack web applications
+*  Mobile apps
+*  Backend APIs
+*  Machine learning systems
 
 Explore them here →
-👉 https://github.com/niyoblaise
+ https://github.com/niyoblaise
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * System Design
 * Cloud & DevOps
